@@ -1,2 +1,4 @@
 name: Aryn Thomas
 markdown: kramdown
+
+theme: jekyll-theme-minimal
