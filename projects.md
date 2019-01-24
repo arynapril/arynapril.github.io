@@ -9,7 +9,7 @@ This page is a list of most of my notable projects, at least the ones I have suf
 ### 3D Printing and CAD
 
 * Modular Over-Door Coat/Scarf Hanger (Coming Soon)
-* [Washi Tape Holder](https://arynapril.github.io/washi/)
+* [Washi Tape Holder](/2019/01/22/washi)
 
 ### Sewing
 
