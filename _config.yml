@@ -1,4 +1,5 @@
 name: Aryn Thomas
 markdown: kramdown
-
+title: Possibly a sweet potato
+description: Personal blog/project portfolio/void for rambling into.
 theme: jekyll-theme-minimal
